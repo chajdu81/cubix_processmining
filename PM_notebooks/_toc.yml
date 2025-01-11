@@ -1,14 +1,14 @@
 - title: README
   file: /README
-- title: Week2
-  file: /Week2/Week2
+- title: week2
+  file: /week2/week2
   sections:
     - title: 01_introduction
-      file: /Week2/01_introduction
+      file: /week2/01_introduction
     - title: 02_Basics
-      file: /Week2/02_Basics
+      file: /week2/02_Basics
     - title: 03_Intermediate
-      file: /Week2/03_Intermediate
+      file: /week2/03_Intermediate
 - title: week3
   file: /week3/week3
   sections:
