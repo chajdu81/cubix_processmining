@@ -1,0 +1,9 @@
+Event Type;Source table;Source field;Logic;Timestamp
+Sales Order Created;O2C_Entities_Orders;Order ID;where O2C_Entities_Orders.Order ID is not null;O2C_Entities_Orders.Creation Date + O2C_Entities_Orders.Creation Time
+Confirmed Delivery Date;O2C_Entities_Deliveries;Confirmed delivery date at;where O2C_Entities_Deliveries.Confirmed delivery date at is not null;Confirmed delivery date at
+Shipment Sent;O2C_Entities_Deliveries;Shipment sent at;where O2C_Entities_Deliveries.Shipment sent at is not null;Shipment sent at
+Customer pick-up;O2C_Entities_Deliveries;Customer picked-up at;where O2C_Entities_Deliveries.Customer picked-up at is not null;Customer picked-up at
+Delivery Completed;O2C_Entities_Deliveries;Delivery completed at;where O2C_Entities_Deliveries.Delivery completed at is not null;Delivery completed at
+Invoice Created;O2C_Entities_Invoices;Invoice ID;where O2C_Entities_Invoicies.Invoice ID is not null;Invoice Date
+Payment Received;O2C_Entities_Invoices;Payment date;where O2C_Entities_Invoicies.Payment date is not null;Payment Date
+Request for Quotation;O2C_Entities_Quotations;RFQ ID;where O2C_Entities_Quotations.RFQ ID is not null;Requested at
