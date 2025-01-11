@@ -1,0 +1,7 @@
+- title: README
+  file: /README
+- title: Week2
+  file: /Week2/Week2
+  sections:
+    - title: 01_introduction
+      file: /Week2/01_introduction
