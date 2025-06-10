@@ -7,7 +7,7 @@
       file: /week2/01_Intro/01_Intro
       sections:
         - title: 01_Introduction
-          file: /week2/01_Intro/01_Introduction 
+          file: /week2/01_Intro/01_Introduction
     - title: 02_Basics
       file: /week2/02_Basics/02_Basics
       sections:
@@ -24,18 +24,20 @@
     - title: 03_Comparison
       file: /week2/03_Comparison/03_Comparison
       sections:
-          - title: 00_task
-            file: /week2/03_Comparison/00_task
-          - title: 01_beginner_solution
-            file: /week2/03_Comparison/01_beginner_solution
-          - title: 02_intermediate_solution
-            file: /week2/03_Comparison/02_intermediate_solution
-          - title: 03_advanced_solution
-            file: /week2/03_Comparison/03_advanced_solution
-          - title: 04_plus1_erdekesseg
-            file: /week2/03_Comparison/04_plus1_erdekesseg
+        - title: 00_task
+          file: /week2/03_Comparison/00_task
+        - title: 01_beginner_solution
+          file: /week2/03_Comparison/01_beginner_solution
+        - title: 02_intermediate_solution
+          file: /week2/03_Comparison/02_intermediate_solution
+        - title: 03_advanced_solution
+          file: /week2/03_Comparison/03_advanced_solution
+        - title: 04_plus1_erdekesseg
+          file: /week2/03_Comparison/04_plus1_erdekesseg
 - title: week3
   file: /week3/week3
   sections:
     - title: 01_model_building_part1
       file: /week3/01_model_building_part1
+    - title: 01_case_create
+      file: /week3/01_case_create
