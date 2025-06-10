@@ -41,3 +41,7 @@
       file: /week3/01_model_building_part1
     - title: 01_case_create
       file: /week3/01_case_create
+    - title: 02_event_create
+      file: /week3/02_event_create
+    - title: 03_event_log
+      file: /week3/03_event_log
