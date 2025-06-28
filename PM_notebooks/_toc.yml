@@ -45,3 +45,8 @@
       file: /week3/02_event_create
     - title: 03_event_log
       file: /week3/03_event_log
+- title: week5
+  file: /week5/week5
+  sections:
+    - title: 01_create_sales_order
+      file: /01_create_sales_order
