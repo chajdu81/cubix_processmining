@@ -3,14 +3,50 @@
 - title: week2
   file: /week2/week2
   sections:
-    - title: 01_introduction
-      file: /week2/01_introduction
+    - title: 01_Intro
+      file: /week2/01_Intro/01_Intro
+      sections:
+        - title: 01_Introduction
+          file: /week2/01_Intro/01_Introduction
     - title: 02_Basics
-      file: /week2/02_Basics
-    - title: 03_Intermediate
-      file: /week2/03_Intermediate
+      file: /week2/02_Basics/02_Basics
+      sections:
+        - title: 01_select_from
+          file: /week2/02_Basics/01_select_from
+        - title: 02_where_order_by
+          file: /week2/02_Basics/02_where_order_by
+        - title: 03_group_by_having
+          file: /week2/02_Basics/03_group_by_having
+        - title: 04_join_sub_query
+          file: /week2/02_Basics/04_join_sub_query
+        - title: 05_window
+          file: /week2/02_Basics/05_window
+    - title: 03_Comparison
+      file: /week2/03_Comparison/03_Comparison
+      sections:
+        - title: 00_task
+          file: /week2/03_Comparison/00_task
+        - title: 01_beginner_solution
+          file: /week2/03_Comparison/01_beginner_solution
+        - title: 02_intermediate_solution
+          file: /week2/03_Comparison/02_intermediate_solution
+        - title: 03_advanced_solution
+          file: /week2/03_Comparison/03_advanced_solution
+        - title: 04_plus1_erdekesseg
+          file: /week2/03_Comparison/04_plus1_erdekesseg
 - title: week3
   file: /week3/week3
   sections:
     - title: 01_model_building_part1
       file: /week3/01_model_building_part1
+    - title: 01_case_create
+      file: /week3/01_case_create
+    - title: 02_event_create
+      file: /week3/02_event_create
+    - title: 03_event_log
+      file: /week3/03_event_log
+- title: week5
+  file: /week5/week5
+  sections:
+    - title: 01_create_sales_order
+      file: /01_create_sales_order
