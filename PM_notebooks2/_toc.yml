@@ -5,3 +5,20 @@
   sections:
     - title: 01_introduction
       file: /Week2/01_introduction
+    - title: WHERE
+      file: /Week2/WHERE
+    - title: GROUP BY
+      file: /Week2/GROUP BY
+    - title: JOIN
+      file: /Week2/JOIN
+    - title: WINDOW
+      file: /Week2/WINDOW
+    - title: COMPARE
+      file: /Week2/COMPARE
+- title: Week 3
+  file: /Week 3/Week 3
+  sections:
+    - title: HW_Cubix_processmining_HAJDUC
+      file: /Week 3/HW_Cubix_processmining_HAJDUC
+    - title: alternativ_megoldasok
+      file: /Week 3/alternativ_megoldasok
