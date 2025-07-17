@@ -1,0 +1,164 @@
+Object,Object ID,Timestamp,User
+Delivery document,Delivery - 0001,10/05/2023 13:36,USER - 03676
+Sales document,Order - 0001,10/05/2023 13:38,USER - 03676
+Freight order,FREIGHT - 00001,10/05/2023 13:54,USER - 03676
+Delivery document,Delivery - 0001,10/05/2023 15:33,USER - 07760
+Freight order,FREIGHT - 00003,15/05/2023 11:04,USER - 03676
+Delivery document,Delivery - 0002,15/05/2023 15:52,USER - 10709
+Freight order,FREIGHT - 00005,25/05/2023 11:58,USER - 03676
+Delivery document,Delivery - 0003,25/05/2023 13:14,USER - 10699
+Freight order,FREIGHT - 00007,25/05/2023 13:14,USER - 03676
+Freight order,FREIGHT - 00009,25/05/2023 13:32,USER - 03676
+Delivery document,Delivery - 0004,25/05/2023 15:17,USER - 07543
+Delivery document,Delivery - 0005,25/05/2023 15:45,USER - 07543
+Invoice,Invoice - 008,31/05/2023 13:28,USER - 04201
+Sales document,Order - 0027,31/05/2023 14:50,USER - 04201
+Sales document,Order - 0028,31/05/2023 14:51,USER - 04201
+Invoice,Invoice - 009,01/06/2023 07:24,USER - 04201
+Invoice,Invoice - 011,05/06/2023 08:30,USER - 04201
+Freight order,FREIGHT - 00022,05/06/2023 14:59,USER - 03676
+Freight order,FREIGHT - 00022,05/06/2023 16:00,USER - 03640
+Delivery document,Delivery - 0014,06/06/2023 11:48,USER - 03676
+Freight order,FREIGHT - 00028,12/06/2023 14:37,USER - 03676
+Freight order,FREIGHT - 00023,12/06/2023 15:41,USER - 10696
+Delivery document,Delivery - 0015,13/06/2023 13:59,USER - 03676
+Delivery document,Delivery - 0029,21/06/2023 09:38,USER - 03676
+Freight order,FREIGHT - 00038,21/06/2023 09:45,USER - 03676
+Delivery document,Delivery - 0030,21/06/2023 12:52,USER - 03676
+Delivery document,Delivery - 0031,21/06/2023 15:08,USER - 03676
+Freight order,FREIGHT - 00041,21/06/2023 15:10,USER - 03676
+Delivery document,Delivery - 0020,22/06/2023 11:41,USER - 03676
+Delivery document,Delivery - 0020,23/06/2023 07:47,USER - 07543
+Delivery document,Delivery - 0037,27/06/2023 15:55,USER - 03676
+Freight order,FREIGHT - 00048,27/06/2023 15:57,USER - 03676
+Delivery document,Delivery - 0040,28/06/2023 15:27,USER - 03676
+Freight order,FREIGHT - 00052,28/06/2023 15:28,USER - 03676
+Delivery document,Delivery - 0041,28/06/2023 16:05,USER - 03676
+Freight order,FREIGHT - 00054,28/06/2023 16:19,USER - 03676
+Delivery document,Delivery - 0052,06/07/2023 15:53,USER - 03676
+Freight order,FREIGHT - 00066,06/07/2023 15:54,USER - 03676
+Freight order,FREIGHT - 00073,07/07/2023 13:09,USER - 03676
+Delivery document,Delivery - 0058,12/07/2023 08:48,USER - 07543
+Freight order,FREIGHT - 00079,14/07/2023 10:56,USER - 03676
+Delivery document,Delivery - 0064,14/07/2023 11:57,USER - 03676
+Freight order,FREIGHT - 00081,14/07/2023 11:58,USER - 03676
+Delivery document,Delivery - 0065,14/07/2023 12:57,USER - 10696
+Freight order,FREIGHT - 00083,14/07/2023 12:59,USER - 10696
+Delivery document,Delivery - 0063,14/07/2023 16:59,USER - 05695
+Freight order,FREIGHT - 00088,21/07/2023 10:46,USER - 03676
+Delivery document,Delivery - 0069,21/07/2023 11:21,USER - 05695
+Freight order,FREIGHT - 00097,26/07/2023 12:17,USER - 05724
+Delivery document,Delivery - 0077,26/07/2023 13:31,USER - 10699
+Freight order,FREIGHT - 00100,28/07/2023 11:47,USER - 03676
+Freight order,FREIGHT - 00102,28/07/2023 12:11,USER - 03676
+Freight order,FREIGHT - 00104,28/07/2023 12:53,USER - 03676
+Invoice,Invoice - 084,01/08/2023 13:37,USER - 04201
+Invoice,Invoice - 081,01/08/2023 13:42,USER - 04201
+Invoice,Invoice - 087,02/08/2023 12:38,USER - 04201
+Freight order,FREIGHT - 00112,03/08/2023 08:37,USER - 05724
+Delivery document,Delivery - 0089,03/08/2023 11:22,USER - 10699
+Delivery document,Delivery - 0089,03/08/2023 11:35,USER - 05717
+Delivery document,Delivery - 0091,07/08/2023 15:34,USER - 05724
+Freight order,FREIGHT - 00128,18/08/2023 12:02,USER - 03676
+Delivery document,Delivery - 0106,22/08/2023 16:41,USER - 03676
+Delivery document,Delivery - 0108,23/08/2023 09:33,USER - 03676
+Freight order,FREIGHT - 00134,23/08/2023 15:13,USER - 03676
+Freight order,FREIGHT - 00133,23/08/2023 15:15,USER - 03676
+Freight order,FREIGHT - 00137,24/08/2023 09:28,USER - 03676
+Delivery document,Delivery - 0110,24/08/2023 12:17,USER - 07543
+Freight order,FREIGHT - 00140,24/08/2023 14:57,USER - 03676
+Freight order,FREIGHT - 00142,24/08/2023 15:03,USER - 03676
+Delivery document,Delivery - 0113,25/08/2023 10:22,USER - 07543
+Delivery document,Delivery - 0112,25/08/2023 12:20,USER - 07543
+Sales document,Order - 0191,29/08/2023 15:56,USER - 10897
+Delivery document,Delivery - 0104,30/08/2023 13:43,USER - 03676
+Freight order,FREIGHT - 00155,01/09/2023 08:22,USER - 03676
+Delivery document,Delivery - 0126,01/09/2023 09:34,USER - 03676
+Delivery document,Delivery - 0125,01/09/2023 15:05,USER - 10709
+Freight order,FREIGHT - 00165,07/09/2023 14:03,USER - 03676
+Freight order,FREIGHT - 00167,08/09/2023 08:19,USER - 03676
+Delivery document,Delivery - 0134,08/09/2023 11:17,USER - 10699
+Delivery document,Delivery - 0135,08/09/2023 11:38,USER - 10699
+Sales document,Order - 0203,08/09/2023 12:34,USER - 04201
+Sales document,Order - 0203,08/09/2023 12:50,USER - 10897
+Freight order,FREIGHT - 00178,14/09/2023 09:27,USER - 03676
+Freight order,FREIGHT - 00180,14/09/2023 09:37,USER - 03676
+Invoice,Invoice - 153,15/09/2023 08:31,USER - 04201
+Sales document,Order - 0217,15/09/2023 11:23,USER - 04201
+Delivery document,Delivery - 0151,18/09/2023 10:36,USER - 03676
+Freight order,FREIGHT - 00186,18/09/2023 10:40,USER - 03676
+Freight order,FREIGHT - 00193,03/10/2023 09:21,USER - 07901
+Invoice,Invoice - 214,27/10/2023 11:35,USER - 08479
+Invoice,Invoice - 224,03/11/2023 11:06,USER - 08479
+Delivery document,Delivery - 0223,09/11/2023 15:56,USER - 03676
+Freight order,FREIGHT - 00260,09/11/2023 15:57,USER - 03676
+Sales document,Order - 0504,18/12/2023 18:36,USER - 02130
+Sales document,Order - 0582,02/01/2024 21:49,USER - 10897
+Invoice,Invoice - 312,01/02/2024 14:06,USER - 04201
+Delivery document,Delivery - 0304,06/02/2024 14:52,USER - 03676
+Freight order,FREIGHT - 00343,06/02/2024 14:56,USER - 03676
+Sales document,Order - 0743,20/02/2024 15:13,USER - 08479
+Sales document,Order - 0744,20/02/2024 15:16,USER - 08479
+Invoice,Invoice - 323,21/02/2024 11:38,USER - 04201
+Invoice,Invoice - 332,21/02/2024 11:38,USER - 04201
+Sales document,Order - 0770,21/02/2024 14:02,USER - 04201
+Sales document,Order - 0687,22/02/2024 12:59,USER - 07760
+Sales document,Order - 0817,01/03/2024 10:36,USER - 10897
+Sales document,Order - 0941,28/03/2024 15:43,USER - 08479
+Sales document,Order - 0945,29/03/2024 09:11,USER - 10897
+Freight order,FREIGHT - 00426,04/04/2024 12:10,USER - 03676
+Delivery document,Delivery - 0386,04/04/2024 12:52,USER - 10699
+Delivery document,Delivery - 0386,04/04/2024 16:01,USER - 07543
+Freight order,FREIGHT - 00430,09/04/2024 12:35,USER - 03676
+Delivery document,Delivery - 0389,09/04/2024 13:13,USER - 07543
+Sales document,Order - 0990,10/04/2024 09:29,USER - 08479
+Delivery document,Delivery - 0393,11/04/2024 13:41,USER - 07760
+Freight order,FREIGHT - 00444,17/04/2024 11:07,USER - 03676
+Delivery document,Delivery - 0402,17/04/2024 12:15,USER - 05695
+Delivery document,Delivery - 0407,18/04/2024 12:45,USER - 03676
+Sales document,Order - 1073,30/04/2024 15:45,USER - 10897
+Delivery document,Delivery - 0420,08/05/2024 12:38,USER - 03676
+Sales document,Order - 0950,17/05/2024 14:00,USER - 10897
+Sales document,Order - 1214,31/05/2024 10:21,USER - 10897
+Delivery document,Delivery - 0452,11/06/2024 15:02,USER - 03676
+Delivery document,Delivery - 0466,20/06/2024 12:51,USER - 03676
+Invoice,Invoice - 491,21/06/2024 08:55,USER - 08479
+Invoice,Invoice - 492,21/06/2024 08:58,USER - 08479
+Invoice,Invoice - 493,21/06/2024 09:07,USER - 08479
+Sales document,Order - 1313,27/06/2024 13:54,USER - 10897
+Sales document,Order - 1314,27/06/2024 15:51,USER - 10897
+Delivery document,Delivery - 0486,09/07/2024 11:16,USER - 03676
+Sales document,Order - 1383,10/07/2024 11:07,USER - 10897
+Sales document,Order - 1384,10/07/2024 12:32,USER - 10897
+Sales document,Order - 1367,18/07/2024 10:04,USER - 10897
+Sales document,Order - 1385,18/07/2024 10:11,USER - 10897
+Sales document,Order - 1386,18/07/2024 10:18,USER - 10897
+Sales document,Order - 1431,23/07/2024 10:59,USER - 10897
+Sales document,Order - 1434,23/07/2024 13:50,USER - 10897
+Sales document,Order - 1436,24/07/2024 12:28,USER - 10897
+Sales document,Order - 1443,29/07/2024 15:48,USER - 10897
+Sales document,Order - 1449,30/07/2024 16:26,USER - 10897
+Sales document,Order - 1451,30/07/2024 17:09,USER - 10897
+Sales document,Order - 1518,13/08/2024 10:00,USER - 08479
+Invoice,Invoice - 543,20/08/2024 15:16,USER - 08479
+Sales document,Order - 1568,28/08/2024 20:43,USER - 10897
+Delivery document,Delivery - 0533,05/09/2024 10:15,USER - 05752
+Sales document,Order - 1601,06/09/2024 15:38,USER - 10897
+Delivery document,Delivery - 0536,13/09/2024 11:19,USER - 03676
+Delivery document,Delivery - 0538,17/09/2024 15:04,USER - 03676
+Sales document,Order - 1647,19/09/2024 17:50,USER - 10897
+Delivery document,Delivery - 0553,27/09/2024 09:38,USER - 03676
+Delivery document,Delivery - 0559,03/10/2024 12:30,USER - 03676
+Delivery document,Delivery - 0561,08/10/2024 08:41,USER - 03676
+Sales document,Order - 1769,22/10/2024 12:01,USER - 10897
+Sales document,Order - 1769,23/10/2024 09:44,USER - 10897
+Sales document,Order - 1798,25/10/2024 10:07,USER - 09841
+Sales document,Order - 1799,25/10/2024 10:08,USER - 09841
+Sales document,Order - 1809,29/10/2024 15:20,USER - 08479
+Sales document,Order - 1823,29/10/2024 20:49,USER - 10897
+Sales document,Order - 1798,04/11/2024 10:43,USER - 09841
+Sales document,Order - 1799,04/11/2024 10:45,USER - 09841
+Sales document,Order - 1936,21/11/2024 14:58,USER - 10897
+Invoice,Invoice - 588,28/11/2024 21:23,USER - 03649
+Invoice,Invoice - 589,28/11/2024 21:24,USER - 03649
+Invoice,Invoice - 643,18/12/2024 12:28,USER - 08479
